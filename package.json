@@ -1,6 +1,6 @@
 {
   "name": "@spriteful/asg-icons",
-  "version": "1.0.13",
+  "version": "1.0.14",
   "description": "Alpha Strike Games icons shared between both apps",
   "main": "asg-icons.js",
   "scripts": {
